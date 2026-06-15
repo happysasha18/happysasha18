@@ -1,8 +1,8 @@
 # Alexander Abramovich
 
-**Builder of measurement-first AI tools · Senior Product Owner in platform engineering · electronic music producer.**
+**Builder of measurement-first AI tools · Product person · electronic music producer.**
 
-Product architect — today in platform engineering in Palo Alto: tenant management, authorization, licensing, partner ecosystems. Alongside that, I build small AI tools with one rule: *report what's measured, leave the decision to the human* — a reaction to LLM tools that fabricate a confident answer instead of grounding one. Off the clock, I make electronic music as **Total Reboot** and shoot architectural & urban photography.
+I build small AI tools with one rule: *report what's measured, leave the decision to the human* — a reaction to LLM tools that fabricate a confident answer instead of grounding one. Off the clock, I make electronic music as **Total Reboot** and shoot architectural & urban photography.
 
 Tel Aviv 🇮🇱
 

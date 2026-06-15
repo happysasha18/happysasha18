@@ -23,6 +23,6 @@ In music and photography, I'm after what isn't there yet — a sound that hasn't
 - 🎵 Music — [totalreboot.com](https://totalreboot.com)
 - 🎧 Bandcamp — [totalreboot.bandcamp.com](https://totalreboot.bandcamp.com)
 - ☁️ SoundCloud — [soundcloud.com/total-reboot](https://soundcloud.com/total-reboot)
-- ▶️ YouTube — [youtube.com/totalreboot](https://youtube.com/channel/UCUq2F81IlswePooNu3D8ZeA)
+- ▶️ YouTube — [Total Reboot on YouTube](https://www.youtube.com/channel/UCUq2F81IlswePooNu3D8ZeA)
 - 🎚️ Mixcloud — [mixcloud.com/totalreboot](https://mixcloud.com/totalreboot)
 - 📷 Photography — [tlvphoto.com](https://tlvphoto.com) · [@happysasha18](https://instagram.com/happysasha18)

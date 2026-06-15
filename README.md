@@ -2,6 +2,8 @@
 
 **Builder of measurement-first AI tools · Product person · electronic music producer.**
 
+`Python` · `Bash` · Claude Code skills · LLM / agent tooling · DSP & audio analysis (`librosa`, `Demucs`)
+
 I build small AI tools with one rule: *report what's measured, leave the decision to the human* — a reaction to LLM tools that fabricate a confident answer instead of grounding one. Off the clock, I make electronic music as **Total Reboot** and shoot architectural & urban photography.
 
 Tel Aviv 🇮🇱
@@ -12,8 +14,8 @@ Tel Aviv 🇮🇱
 
 | Project | What it is |
 |---|---|
-| [**track-coach**](https://github.com/happysasha18/track-coach) | 🎛️ Local, measurement-first compositional coach for electronic music. `librosa` + `Demucs` analysis of a track's dramaturgy — arc, modulation drift, frequency masking — as a Claude skill. **measured / means / your call.** |
-| [**verifiable-spec**](https://github.com/happysasha18/verifiable-spec) | Formal-verification thinking applied to product specs / PRDs — invariants, safety & liveness, state machines — so structural defects surface before they reach code. Every finding traceable to a quote in the source. |
+| [**track-coach**](https://github.com/happysasha18/track-coach) | 🎛️ Measurement-first compositional coach for electronic music — `librosa` + `Demucs` diagnostics as a Claude skill. *measured / means / your call.* |
+| [**product-prover**](https://github.com/happysasha18/product-prover) | 🔍 Formal-verification thinking for product specs — defects in PRDs caught before they reach code, every finding traced to the source. |
 
 Two projects, one idea seen from two sides: a spec — whether for a product or a track — should be *verifiable*, and a tool should never substitute its taste for yours.
 

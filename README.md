@@ -34,9 +34,9 @@ That separation is the whole philosophy: the tool gives you the physics — *"ba
 | | |
 |---|---|
 | **[track-coach](https://github.com/happysasha18/track-coach)** | Full-stack compositional coach for producers. Runs locally as a Claude Code skill: development-arc analysis, Demucs stem separation, frequency masking, rhythm + drum breakdown, note transcription, and Ableton `.als` parsing — wrapped in one offline HTML widget with a synced multi-stem player. |
-| **verifiable-spec** *(soon)* | Formal verification applied to product specs / PRDs — same instinct as track-coach: facts over plausible fiction. |
+| **[product-prover](https://github.com/happysasha18/product-prover)** | Senior-architect review of product specs (PRD / HLD / LLD) through formal-verification thinking — entities, states, invariants, safety, liveness — where every finding is traceable to a quote in the source. Same instinct as track-coach: facts over plausible fiction. |
 
-A recurring idea across both: the orchestration only *conducts*; the real work lives in deterministic scripts, so the answer is the same every time instead of being re-improvised on a whim. Same fractal, layered approach I use in the music.
+A recurring idea across both: ground every claim in something real and let the author keep the decision. The orchestration only *conducts*; the actual work is deterministic, so the answer is the same every time instead of being re-improvised on a whim. Same fractal, layered approach I use in the music.
 
 ---
 

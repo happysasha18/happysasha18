@@ -14,6 +14,9 @@ In music and photography, I'm after what isn't there yet — a sound that hasn't
 |---|---|
 | [**track-coach**](https://github.com/happysasha18/track-coach) | 🎛️ Measurement-first compositional coach for electronic music — `librosa` + `Demucs` diagnostics as a Claude skill. *measured / means / your call.* |
 | [**product-prover**](https://github.com/happysasha18/product-prover) | 🔍 Formal-verification thinking for product specs — defects in PRDs caught before they reach code, every finding traced to the source. |
+| [**spec-author**](https://github.com/happysasha18/spec-author) | ✍️ The authoring half paired with product-prover — writes & grows a living, prover-ready spec, composing every stateful surface across the views and modes it lives under (where the bugs that pass every test hide). |
+
+> **spec-author** and **product-prover** are a pair — the meta-spec of how I build: *author the spec → prove the whole spec → derive the tests → write the code.* Same formal-verification primitives on both sides, so a cross-section hole has nowhere to hide.
 
 ---
 

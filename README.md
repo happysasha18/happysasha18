@@ -15,8 +15,9 @@ In music and photography, I'm after what isn't there yet — a sound that hasn't
 | [**track-coach**](https://github.com/happysasha18/track-coach) | 🎛️ Measurement-first compositional coach for electronic music — `librosa` + `Demucs` diagnostics as a Claude skill. *measured / means / your call.* |
 | [**product-prover**](https://github.com/happysasha18/product-prover) | 🔍 Formal-verification thinking for product specs — defects in PRDs caught before they reach code, every finding traced to the source. |
 | [**spec-author**](https://github.com/happysasha18/spec-author) | ✍️ The authoring half paired with product-prover — writes & grows a living, prover-ready spec, composing every stateful surface across the views and modes it lives under (where the bugs that pass every test hide). |
+| [**build-pipeline**](https://github.com/happysasha18/build-pipeline) | 🪡 The spine that runs the whole arc — orchestrates spec-author and product-prover through spec → prove → matrix → test → code → verify → commit, so the method is the same every time. |
 
-> **spec-author** and **product-prover** are a pair — the meta-spec of how I build: *author the spec → prove the whole spec → derive the tests → write the code.* Same formal-verification primitives on both sides, so a cross-section hole has nowhere to hide.
+> **spec-author**, **product-prover**, and **build-pipeline** are the meta-spec of how I build: *author the spec → prove the whole spec → derive the tests → write the code → verify → ship.* build-pipeline is the spine that sequences the other two; same formal-verification primitives on every side, so a cross-section hole has nowhere to hide.
 
 ---
 
